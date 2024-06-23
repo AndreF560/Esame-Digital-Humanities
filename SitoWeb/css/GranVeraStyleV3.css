@@ -1,0 +1,153 @@
+/* Stile per il body */
+body {
+    background-color: #add8e6;
+    color: #fff;
+}
+
+/* Stile per il contenitore principale */
+.container {
+    text-align: center;
+}
+
+/* Stile per il titolo */
+h1 {
+    font-size: 2.5rem;
+    background-color: #343a40;
+    border-radius: 10px;
+}
+
+/* Stile per il paragrafo */
+.text-center p {
+    font-size: 1.2rem;
+    background-color: #343a40;
+    border-radius: 10px;
+}
+
+/*stile navbar*/
+.navbar {
+    border-radius: 10px;
+}
+
+/* Stile per le icone di navigazione */
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+/* Stile per i dropdown della navbar */
+.dropdown-menu {
+    background-color: #343a40;
+}
+
+/* Stile per gli item dei dropdown */
+.dropdown-item {
+    color: #fff;
+}
+
+/* Stile per il navbar brand */
+.navbar-brand {
+    font-size: 1.5rem;
+}
+/* Stile per lo slideshow */
+#slideshow {
+    margin-top: 20px;
+    margin-bottom: 20px; /* Margine sotto lo slideshow */
+}
+
+/* Stile per i controlli dello slideshow */
+.carousel-control-prev, .carousel-control-next {
+    width: auto;
+    color: #fff;
+}
+
+/* Stile per l'icona dei controlli dello slideshow */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+/* Stile per le immagini nello slideshow */
+.carousel-item img {
+    height: 900px;
+    max-width: 100%;
+    object-fit: cover; /* Mantieni le proporzioni e taglia le immagini per adattarle al contenitore */
+}
+
+/* Stile per la casella di testo per l'introduzione */
+.introduction-box {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px; /* Margine sotto la casella di testo */
+}
+/* Stile per il pulsante dello slideshow */
+.btn-primary {
+    background-color: #343a40;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+/*stile per i box dell'elenco delle uniformi */
+ .uniform-box {
+    background-color: #343a40;
+    border: 1px solid #fff;
+    padding: 15px;
+    margin: 10px 0;
+    transition: background-color 0.3s ease;
+    border-radius: 10px;
+}
+.uniform-box:hover {
+    background-color: #f0f0f0;
+}
+.uniform-box a {
+    text-decoration: none;
+    color: #fff;
+}
+.uniform-box a:hover {
+    text-decoration: underline;
+    color: #343a40 ;
+}
+/*stile per la casella di descrizione dell'uniforme */
+.col-md-6 ul, h2 {
+    text-align: left;
+    background-color: #343a40;
+    border-radius: 10px;
+    padding: 20px;
+}
+/*stile per i pulsanti con i file sotto le immagini e descrizioni*/
+.button-group {
+    margin-top: 20px;
+    text-align: center;
+}
+.button-group .btn {
+    margin: 5px;
+}
+.btn-primary, .btn-secondary, .btn-success {
+    background-color: #343a40;
+    border-color: #fff;
+}
+.btn-primary:hover, .btn-secondary:hover, .btn-success:hover {
+    background-color: #808080;
+    border-color: #fff;
+}
+
+/*Stile grafico*/
+.chart_div {
+    box-align: center;
+    width: 700px; 
+    height: 500px;
+}
+
+/*stile footer */
+.footer {
+    padding:10px;
+    border-radius: 20px;
+}
+.footer ul, h5 {
+    text-align: left;
+}
+.footer a {
+    color: #fff;
+}
+.footer a:hover {
+    color: #add8e6;
+}

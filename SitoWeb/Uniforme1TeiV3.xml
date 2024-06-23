@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Uniforme da Tenente d'Artiglieria (Oberleutnant) Austriaco</title>
+				<author>Esercito Austroungarico</author>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Museo La Gran Vera</publisher>
+        		<date>2024-06-07</date>
+			</publicationStmt>
+			<sourceDesc>
+		        <bibl>
+		        	<title>Uniforme da Tenente d'Artiglieria (Oberleutnant) Austriaco</title>
+		          	<author>Esercito Austroungarico</author>
+		          	<date>1916</date>
+		          	<publisher>Museo La Gran Vera</publisher>
+		        </bibl>
+		    </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+<text>
+	<body>
+      <div type="uniform">
+        <head>Uniforme da Tenente d'Artiglieria (Oberleutnant) Austriaco</head>
+        <p>Uniforme appartenuta a Siegfried Kolisch, arruolato con la batteria n. 21, stanziata a Penia (Canazei), che aveva in dotazione il mortaio Skoda-Mörser da 30.5 cm. Presenta un Kepì rigido per ufficiali, modificato con stella alpina al posto del bottoncino regolamentare.</p>
+        <list>
+          <item><hi rend="bold">Anno di Costruzione:</hi> 1916 circa</item>
+          <item><hi rend="bold">Paese di Origine:</hi> Austria-Ungheria</item>
+          <item><hi rend="bold">Materiale:</hi> Panno di lana con colletto in velluto di seta</item>
+          <item><hi rend="bold">Accessori:</hi> Binocolo Goertz mod. 1908 e borsa porta documenti.</item>
+        </list>
+        <figure>
+          <graphic url="C:\Users\andre\OneDrive - Alma Mater Studiorum Università di Bologna\storia\Magistrale Scienze Storiche\Digital Humanities\SitoWeb\immagini\DivisaAu1.jpg" />
+          <figDesc>Uniforme Austriaca</figDesc>
+        </figure>
+        <div type="buttons">
+          <button>XML/TEI</button>
+          <button>XML/DC</button>
+          <button>Condividi</button>
+        </div>
+      </div>
+    </body>
+	</text>
+</TEI>
